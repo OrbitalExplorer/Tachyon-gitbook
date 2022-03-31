@@ -8,4 +8,5 @@ description: This is the official wiki of Faster than Light
 
 * [instalation.md](readme/instalation.md "mention")
 * [capes.md](gitbook-main/capes.md "mention")
+* [shaders.md](readme/shaders.md "mention")
 * More coming soon
