@@ -7,7 +7,7 @@ description: Hier zijn de instructies om een gratis cape te krijgen
 ## Registratie (Minecraft Capes)
 
 1. Connecteer naar de minecraft server die al in de samen spelen lijst staat
-2. Ga naar [deze website](https://minecraftcapes.net)
+2. Ga naar [<mark style="color:yellow;">deze website</mark>](https://minecraftcapes.net)<mark style="color:yellow;"></mark>
 3. Klik op Registreren
 4. Voer de code in die je van de minecraft server hebt gekregen
 5. Maak een wachtwoord en onthoud het
@@ -15,7 +15,7 @@ description: Hier zijn de instructies om een gratis cape te krijgen
 7. Kies je cape
 8. Volg de activeringsstappen hieronder
 
-For an instruction video check [this video](https://youtu.be/xeJoaxJcM9w?t=435) until 9:50 then follow the steps below
+For an instruction video check [<mark style="color:yellow;">this video</mark>](https://youtu.be/xeJoaxJcM9w?t=435) until 9:50 then follow the steps below
 
 ## Activatie
 

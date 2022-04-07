@@ -10,7 +10,7 @@ description: Here you will see how to install the modpack
 2. Click `Install` on the version you want (probably the latest one,you can see it at the top)
 3. Accept the prompts to open the app (if asked), the installation should start
 
-## [GdLauncher](https://gdevs.com)
+## <mark style="color:yellow;"></mark>[<mark style="color:yellow;">GdLauncher</mark>](https://gdevs.com)<mark style="color:yellow;"></mark>
 
 1. Click the `➕` on in the left corner at the bottom
 2. Select the `CurseForge` tab
