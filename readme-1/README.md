@@ -1,5 +1,5 @@
 ---
-description: This is the official wiki of Faster than Light
+description: Dit is de officiële wiki van Faster than Light
 ---
 
 # 🇳🇱 Nederlands
