@@ -11,10 +11,10 @@ description: Dit zijn de stappen die je moet nemen om shaders toe te voegen
 #### Installatie
 
 1. Start de Faster Than Light instantie
-2. Navigeer naar `Instllingen...` --> `Grafische Instellingen...` --> `Shader Packs...`
+2. Navigeer naar `Instellingen...` --> `Grafische Instellingen...` --> `Shader Packs...`
 3. Download de shaders die je wilt ([<mark style="color:yellow;">De aanbevollen shaders</mark>](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md))
 4. Sleep de .zip naar je minecraft shader pack scherm
-5. Zet Shaders op `Ingeschakeld`angs boven
+5. Zet Shaders op `Ingeschakeld`langs boven
 6. Selecteer de shader, klik op `Toepassen`
 
 #### Configuratie (optioneel)

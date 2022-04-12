@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🇱🇷 English](README.md)
-  * [Instalation](readme/instalation.md)
+  * [Installation](readme/instalation.md)
   * [Capes](gitbook-main/capes.md)
   * [Shaders](readme/shaders.md)
   * [Controllers](readme/controllers.md)
