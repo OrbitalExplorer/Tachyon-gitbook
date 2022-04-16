@@ -12,6 +12,8 @@ description: Here you'll see how to link/configure controllers to minecraft
 4. Click on `your controller: OFF` until it says `ON`
 5. Now your controller is connected
 
+If this doesn't work try connecting it with a cable.
+
 ### Configuring
 
 If you can't do everything with your controller check these steps.

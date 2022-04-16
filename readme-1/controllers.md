@@ -12,6 +12,8 @@ description: Hier zie je hoe je controllers aan minecraft koppelt/configureert
 4. Klik op `jouw controller: UIT`until it says `AAN`
 5. Nu is je controller geconnecteerd
 
+Als dit niet werkt probeer dan je controller te connecteren met een kabel
+
 ### Configureren
 
 Als je niet alles met je controller kunt doen, controleer dan deze stappen.
