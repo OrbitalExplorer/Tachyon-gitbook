@@ -20,4 +20,8 @@ description: Dit is de officiële wiki van Faster than Light
 * [controllers.md](controllers.md "mention")
   * [#koppelen](controllers.md#koppelen "mention")
   * [#configureren](controllers.md#configureren "mention")
+* [server-coming-soon.md](server-coming-soon.md "mention")
+  * [#windows](server-coming-soon.md#windows "mention")
+  * [#linux](server-coming-soon.md#linux "mention")
+  * [#macos](server-coming-soon.md#macos "mention")
 * Meer komt nog
