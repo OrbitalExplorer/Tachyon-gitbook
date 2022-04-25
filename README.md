@@ -21,8 +21,8 @@ description: This is the official wiki of Faster than Light
 * [controllers.md](english/controllers.md "mention")
   * [#linking](english/controllers.md#linking "mention")
   * [#configuring](english/controllers.md#configuring "mention")
-* [server-coming-soon.md](english/server-coming-soon.md "mention")
-  * [#windows](english/server-coming-soon.md#windows "mention")
-  * [#linux](english/server-coming-soon.md#linux "mention")
-  * [#macos](english/server-coming-soon.md#macos "mention")
+* [server.md](english/server.md "mention")
+  * [#windows](english/server.md#windows "mention")
+  * [#linux](english/server.md#linux "mention")
+  * [#macos](english/server.md#macos "mention")
 * More coming soon
