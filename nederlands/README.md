@@ -1,5 +1,5 @@
 ---
-description: Dit is de officiële wiki van Tachyon
+description: Dit is de officiële wiki van Faster than Light
 ---
 
 # 🇳🇱 Nederlands

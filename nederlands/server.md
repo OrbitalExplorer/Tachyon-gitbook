@@ -2,7 +2,7 @@
 description: Hier ziet u hoe u het Faster Than Light-serverpakket instelt
 ---
 
-# Server coming soon
+# Server
 
 ## Windows
 
@@ -24,6 +24,9 @@ description: Hier ziet u hoe u het Faster Than Light-serverpakket instelt
 12. Verander `eula=false` naar `true`
 13. Om uw server te starten
     1. Open `windows.bat`
+14. `Om uw server te stoppen`
+    1. Typ `stop`
+    2. Sluit het venster wanneer het zegt `restarting in x seconds`
 
 Je hebt de server nu succesvol geïnstalleerd op Windows
 
@@ -47,6 +50,9 @@ Je hebt de server nu succesvol geïnstalleerd op Windows
 12. Verander `eula=false` naar `true`
 13. Om uw server te starten
     1. Open `linux.sh`
+14. Om uw server te stoppen
+    1. Typ `stop`
+    2. Sluit het venster wanneer het zegt `restarting in x seconds`
 
 Je hebt de server nu succesvol geïnstalleerd op Linux
 
@@ -86,6 +92,9 @@ Je hebt de server nu succesvol geïnstalleerd op Linux
     1. Klik met de rechtermuisknop op macos.command&#x20;
     2. Klik op Openen&#x20;
     3. Klik nogmaals op Openen
+24. Om uw server te stoppen
+    1. Typ `stop`
+    2. Sluit het venster wanneer het zegt `restarting in x seconds`
 
 Je hebt de server nu succesvol geïnstalleerd op macOS
 

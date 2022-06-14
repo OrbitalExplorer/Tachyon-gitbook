@@ -2,9 +2,11 @@
 description: Here you will see how to setup the Faster Than Light server pack
 ---
 
-# Server coming soon
+# Server
 
-## Windows
+## Installation
+
+### Windows
 
 #### Make sure to have java 17 installed
 
@@ -25,10 +27,13 @@ description: Here you will see how to setup the Faster Than Light server pack
 13. Change `eula=false` to `true`
 14. To start your server
     1. Open `windows.bat`
+15. To Stop your server
+    1. Type `stop`
+    2. Close the window when it says `Restarting in x seconds`
 
 You've now succesfully installed the server on Windows
 
-## Linux
+### Linux
 
 #### Make sure to have java 17 installed
 
@@ -50,10 +55,13 @@ You've now succesfully installed the server on Windows
 14. Open `linux.sh`
 15. To start your server
     1. Open `linux.sh`
+16. `To Stop your server`
+    1. Type `stop`
+    2. Close the window when it says `Restarting in x seconds`
 
 You've now succesfully installed the server on Linux
 
-## MacOS
+### MacOS
 
 
 
@@ -91,6 +99,14 @@ You've now succesfully installed the server on Linux
     1. Right click `macos.command`
     2. Click `Open`
     3. Again click `Open`
+24. To stop your server
+    1. Type `stop`
+    2. Close the window when it says `Restarting in x seconds`
 
 You've now succesfully installed the server on MacOS
 
+## Configuration
+
+### Pregenerate your map
+
+1. &#x20;&#x20;
