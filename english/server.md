@@ -2,11 +2,9 @@
 description: Here you will see how to setup the Faster Than Light server pack
 ---
 
-# Server
+# Server coming soon
 
-## Installation
-
-### Windows
+## Windows
 
 #### Make sure to have java 17 installed
 
@@ -30,7 +28,7 @@ description: Here you will see how to setup the Faster Than Light server pack
 
 You've now succesfully installed the server on Windows
 
-### Linux
+## Linux
 
 #### Make sure to have java 17 installed
 
@@ -55,7 +53,7 @@ You've now succesfully installed the server on Windows
 
 You've now succesfully installed the server on Linux
 
-### MacOS
+## MacOS
 
 
 
@@ -96,8 +94,3 @@ You've now succesfully installed the server on Linux
 
 You've now succesfully installed the server on MacOS
 
-## Configuration
-
-### Pregenerate your map
-
-1. &#x20;&#x20;

@@ -1,5 +1,5 @@
 ---
-description: This is the official wiki of Faster than Light
+description: This is the official wiki of Tachyon
 ---
 
 # 🇱🇷 English
