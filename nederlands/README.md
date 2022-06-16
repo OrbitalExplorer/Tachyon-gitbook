@@ -1,5 +1,5 @@
 ---
-description: Dit is de officiële wiki van Faster than Light
+description: Dit is de officiële wiki van Tachyon
 ---
 
 # 🇳🇱 Nederlands
@@ -9,6 +9,8 @@ description: Dit is de officiële wiki van Faster than Light
 * [instalation.md](instalation.md "mention")
   * [#curseforge-launcher](instalation.md#curseforge-launcher "mention")
   * [#gdlauncher](instalation.md#gdlauncher "mention")
+  * [#atlauncher](instalation.md#atlauncher "mention")
+  * [#binnenkort-meer-launcher-ondersteuning-tm](instalation.md#binnenkort-meer-launcher-ondersteuning-tm "mention")
 * [capes.md](capes.md "mention")
   * [#registratie-minecraft-capes](capes.md#registratie-minecraft-capes "mention")
   * [#activatie](capes.md#activatie "mention")

@@ -19,4 +19,14 @@ description: Here you will see how to install the modpack
 5. Choose your name (leave it blank for default)
 6. Click the `➡️` on the bottom right of the window
 
+## <mark style="color:yellow;"></mark>[<mark style="color:yellow;">ATLauncher</mark>](https://atlauncher.com/)<mark style="color:yellow;"></mark>
+
+1. On the right click `Packs`
+2. Now click on `curseforge` on the left
+3. Click the search bar
+4. search for `Tachyon` and scroll down until you see it
+5. Click `New Instance`
+6. Click `Install`
+7. To start your instance click on the right on `Instances` and then on Tachyon
+
 ## More Launcher support coming soon™

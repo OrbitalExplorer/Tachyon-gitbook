@@ -1,5 +1,5 @@
 ---
-description: This is the official wiki of Faster than Light
+description: This is the official wiki of Tachyon
 ---
 
 # 🇱🇷 English
@@ -9,6 +9,7 @@ description: This is the official wiki of Faster than Light
 * [instalation.md](english/instalation.md "mention")
   * [#curseforge-launcher](english/instalation.md#curseforge-launcher "mention")
   * [#gdlauncher](english/instalation.md#gdlauncher "mention")
+  * [#atlauncher](english/instalation.md#atlauncher "mention")
   * [#more-launcher-support-coming-soon-tm](english/instalation.md#more-launcher-support-coming-soon-tm "mention")
 * [capes.md](english/capes.md "mention")
   * [#registration-minecraft-capes](english/capes.md#registration-minecraft-capes "mention")

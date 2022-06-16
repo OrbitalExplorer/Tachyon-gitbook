@@ -19,4 +19,14 @@ description: Hier zal je zien hoe je het modpack installeert
 5. Kies je naam (laat leeg voor standaard)
 6. Click het `➡️` links onder het venster
 
+## [<mark style="color:yellow;">ATLauncher</mark>](https://atlauncher.com/)<mark style="color:yellow;"></mark>
+
+1. Rechts klik op `Packs`
+2. Klik nu op `curseforge`
+3. Zoek nu in de zoek balk rechts boven
+4. Zoek voor `Tachyon` en scroll tot je het vindt
+5. Klik nu op `New Instance`
+6. Klik op `Install`
+7. Om je instance te starten klik rechts op `Instances` en dan klik op play bij Tachyon
+
 ## Binnenkort meer Launcher-ondersteuning™
