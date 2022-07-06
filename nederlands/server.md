@@ -4,20 +4,7 @@ description: Hier ziet u hoe u het Faster Than Light-serverpakket instelt
 
 # Server
 
-### BisectHosting
-
-Gebruik mijn code `lalamapaka` voor 25% korting
-
-1. Start je spel
-2. Click `Samen Spelen`
-3. Click op `Need a server?`&#x20;
-4. Kies je hoeveelheid van spelers en ga verder
-5. Click `Select`
-6. Kies je Plan
-7. Click `Order Plan` (de ram is automatisch gekozen door de hoeveelheid spelers)
-8. Een nieuwe tab in je browser opent nu en volg de stappen daar
-
-### Windows
+## Windows
 
 #### Zorg er zeker voor dat java 17 is geïnstalleerd
 
@@ -43,7 +30,7 @@ Gebruik mijn code `lalamapaka` voor 25% korting
 
 Je hebt de server nu succesvol geïnstalleerd op Windows
 
-### Linux
+## Linux
 
 #### Zorg er zeker voor dat java 17 is geïnstalleerd
 
@@ -69,7 +56,7 @@ Je hebt de server nu succesvol geïnstalleerd op Windows
 
 Je hebt de server nu succesvol geïnstalleerd op Linux
 
-### macOS
+## macOS
 
 #### Zorg er zeker voor dat java 17 is geïnstalleerd
 

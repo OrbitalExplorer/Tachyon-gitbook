@@ -117,9 +117,3 @@ You've now succesfully installed the server on Linux
     2. Close the window when it says `Restarting in x seconds`
 
 You've now succesfully installed the server on MacOS
-
-## Configuration
-
-### Pregenerate your map
-
-1. &#x20;&#x20;

@@ -6,7 +6,7 @@ description: Hier zal je zien hoe je het modpack installeert
 
 ## [<mark style="color:yellow;">Curseforge Launcher</mark>](https://download.curseforge.com/)<mark style="color:yellow;"></mark>
 
-1. Ga naar [<mark style="color:yellow;">Bestanden</mark>](https://www.curseforge.com/minecraft/modpacks/tachyon-fps/files) <mark style="color:yellow;"></mark> op de curseforge pagina
+1. Ga naar [<mark style="color:yellow;">Bestanden</mark>](https://www.curseforge.com/minecraft/modpacks/faster-than-light/files) <mark style="color:yellow;"></mark> op de curseforge pagina
 2. Klik op`Installeren` bij de versie dat jij wil (waarschijnlijk de laatste, die kan je zien langboven)
 3. Accepteer de pop-ups voor de app te openenen (indien gevraagd), de instalatie zou nu moeten starten
 
