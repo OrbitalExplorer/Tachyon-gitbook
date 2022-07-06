@@ -6,6 +6,19 @@ description: Here you will see how to setup the Faster Than Light server pack
 
 ## Installation
 
+### BisectHosting
+
+Use my refferal code lalamapaka for 25% off your server
+
+1. Launch your game
+2. Click `Multiplayer`
+3. Click `Need a server?`&#x20;
+4. Select your amout of players and continue
+5. Click `Select`
+6. Choose your plan
+7. Click `Order Plan` (the ram is automatically chosen for your amout of players)
+8. A new tab should open in your browser and follow the steps
+
 ### Windows
 
 #### Make sure to have java 17 installed
@@ -55,7 +68,7 @@ You've now succesfully installed the server on Windows
 14. Open `linux.sh`
 15. To start your server
     1. Open `linux.sh`
-16. `To Stop your server`
+16. To Stop your server
     1. Type `stop`
     2. Close the window when it says `Restarting in x seconds`
 
