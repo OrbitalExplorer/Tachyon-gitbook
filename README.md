@@ -4,7 +4,7 @@ description: This is the official wiki of Tachyon
 
 # 🇱🇷 English
 
-## Temporarily Discontinued
+## <mark style="color:red;">Temporarily Discontinued</mark>
 
 ### Table of contents
 
