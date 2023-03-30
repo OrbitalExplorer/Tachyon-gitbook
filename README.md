@@ -4,8 +4,6 @@ description: This is the official wiki of Tachyon
 
 # 🇱🇷 English
 
-## <mark style="color:red;">Temporarily Discontinued</mark>
-
 ### Table of contents
 
 * [instalation.md](english/instalation.md "mention")

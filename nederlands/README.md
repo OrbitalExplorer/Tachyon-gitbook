@@ -4,8 +4,6 @@ description: Dit is de officiële wiki van Tachyon
 
 # 🇳🇱 Nederlands
 
-## Temporarily Discontinued
-
 ## Inhoudsopgave
 
 * [instalation.md](instalation.md "mention")
